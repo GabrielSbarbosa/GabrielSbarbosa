@@ -52,7 +52,7 @@ Sistema web com autenticação, CRUD completo e relatórios.
 ## 🎓 Formação Acadêmica
 
 - **Análise e Desenvolvimento de Sistemas** | Estácio  
-  02/2023 – 11/2025  
+  02/2023 – 12/2025  
 
 - **Mecatrônica Industrial** | FATEC Santo André  
   02/2019 – 12/2021  
