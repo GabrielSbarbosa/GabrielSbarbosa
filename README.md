@@ -1,7 +1,8 @@
-## Bem vindo ao meu GitHub!
+## Bem-vindo ao meu GitHub!
 ## Welcome to my GitHub!
-# Gabriel Barbosa  
-## Desenvolvedor Full Stack  
+
+# Eu sou Gabriel Barbosa, muito prazer! 😁
+## Desenvolvedor Full Stack 💻
 
 Bem-vindo ao meu perfil! Sou Desenvolvedor Full Stack com experiência prática em desenvolvimento web, integração de sistemas e automação.  
 Atualmente trabalho como **Analista Computacional Pleno**, atuando com JavaScript, Node.js, Python, SQL e .NET no desenvolvimento e manutenção de sistemas corporativos.
