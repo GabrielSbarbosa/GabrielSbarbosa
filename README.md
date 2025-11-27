@@ -4,7 +4,7 @@
 Bem-vindo ao meu perfil! Sou Desenvolvedor Full Stack com experiência prática em desenvolvimento web, integração de sistemas e automação.  
 Atualmente trabalho como **Analista Computacional Pleno**, atuando com JavaScript, Node.js, Python, SQL e .NET no desenvolvimento e manutenção de sistemas corporativos.
 
-Sou formado em **Mecatrônica Industrial (FATEC)** e curso **Análise e Desenvolvimento de Sistemas (Estácio)**.  
+Sou formado em **Mecatrônica Industrial (FATEC)** e **Análise e Desenvolvimento de Sistemas (Estácio)**.  
 Tenho foco em criar soluções escaláveis, performáticas e de alta qualidade.
 
 ---
