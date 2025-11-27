@@ -1,4 +1,4 @@
-### Bem vindo ao meu GitHub! | Welcome to my GitHub!
+## Bem vindo ao meu GitHub! | Welcome to my GitHub!
 # Gabriel Barbosa  
 ## Desenvolvedor Full Stack  
 
