@@ -1,54 +1,118 @@
-# Olá, me chamo Gabriel! 
-## Bem vindo ao meu perfil GitHub 👋
+# Gabriel Barbosa  
+## Desenvolvedor Full Stack  
 
+Bem-vindo ao meu perfil! Sou Desenvolvedor Full Stack com experiência prática em desenvolvimento web, integração de sistemas e automação.  
+Atualmente trabalho como **Analista Computacional Pleno**, atuando com JavaScript, Node.js, Python, SQL e .NET no desenvolvimento e manutenção de sistemas corporativos.
 
-![Gabriel](https://github-readme-stats.vercel.app/api?username=GabrielSbarbosa&theme=dracula)
-![Gabriel](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSbarbosa&theme=blue-green)
+Sou formado em **Mecatrônica Industrial (FATEC)** e curso **Análise e Desenvolvimento de Sistemas (Estácio)**.  
+Tenho foco em criar soluções escaláveis, performáticas e de alta qualidade.
 
-- 💻 Atualmente estou trabalhando como Analista de Suporte Pleno. 
-- 📚 Sou formado em Mecatrônica pela FATEC e estou cursando Análise e Desenvolvimento de Sistemas a fim de conseguir uma oportunidade como desenvolvedor FrontEnd ou BackEnd. 
-- 💡 Sempre estou me atualizando com cursos complementares, nas áreas de desenvolvimento Web (HTML, JavaScript e CSS), análise de dados como Python, MySql, entre outras. 
-- 💬 Gosto de receber sugestões de novos projetos e desafios, por causa disso, criei esse repositório para anexar meus projetos e códigos abertos. 
-- 📫 Contatos:
+---
+
+## 📊 GitHub Stats
 
 <div>
-  
-<a href = "mailto:gabrieldasilva100@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabriel-barbosa-link/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielSbarbosa&show_icons=true&theme=dracula"/>
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSbarbosa&layout=compact&langs_count=6&theme=blue-green&hide=jupyter%20notebook"/>
 </div>
 
+---
+
+## 💼 Experiência Profissional
+
+### **Sweda Informática – São Paulo, SP**  
+**Analista Computacional Pleno | 07/2023 – Atual**
+- Desenvolvimento e manutenção de aplicações utilizando **JavaScript, Node.js, Python, SQL e .NET**.  
+- Integração entre sistemas e implementação de novas funcionalidades.  
+- Uso de Git, Jira e boas práticas de arquitetura e testes.  
+- Otimização de bancos de dados e análise de logs.
+
+**Analista Computacional Júnior | 05/2022 – 07/2023**  
+- Suporte técnico e manutenção de sistemas internos.  
+- Automação de processos e diagnóstico de falhas.  
+- Participação em integrações e melhorias de desempenho.
+
+---
+
+## 🚀 Projetos Notáveis
+
+### **📱 ProjetoAppMobile – Loja Virtual de Pipas**  
+Aplicativo mobile com cadastro de vendedores, gerenciamento de estoque, favoritos e integração com WhatsApp.  
+**Tecnologias:** JavaScript, Node.js, HTML, CSS, Git  
+🔗 GitHub: https://github.com/GabrielSbarbosa/ProjetoAppMobile
+
+### **🧾 ProjectPHP – Sistema de Controle de Funcionários**  
+Sistema web com autenticação, CRUD completo e relatórios.  
+**Tecnologias:** PHP, MySQL, HTML, CSS, JavaScript  
+🔗 GitHub: https://github.com/GabrielSbarbosa/ProjectPHP
+
+---
+
+## 🎓 Formação Acadêmica
+
+- **Análise e Desenvolvimento de Sistemas** | Estácio  
+  02/2023 – 11/2025  
+
+- **Mecatrônica Industrial** | FATEC Santo André  
+  02/2019 – 12/2021  
+
+---
+
+## 📝 Certificações Selecionadas
+
+- JavaScript Developer – DIO (2024)  
+- Programação de Algoritmos Escaláveis – Estácio (2024–2025)  
+- Python + Cloud/IoT/Big Data – Fundação Bradesco / Estácio (2023–2024)  
+- HTML, CSS e JavaScript – Fundação Bradesco (2023)  
+- Programação para Dispositivos Móveis – Estácio (2025)  
+
+---
+
+## 🧠 Habilidades Técnicas
+
+**Linguagens:**  
+JavaScript | Python | Java | C++
+
+**Frameworks:**  
+React | Next.js | Vue.js | Node.js
+
+**Banco de Dados:**  
+MySQL | Databricks
+
+**Ferramentas & DevOps:**  
+Git | Linux | Windows | Jira
+
+---
+
+## 🧩 Soft Skills
+
+Resolução de problemas • Trabalho em equipe • Comunicação eficaz  
+Organização • Pensamento crítico • Proatividade • Aprendizado contínuo  
+
+---
+
+## 📫 Contatos
+
+<div>
+  <a href="mailto:gabrieldasilva100@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Email-0053A0?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gabriel-barbosa-link"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/GabrielSbarbosa"><img loading="lazy" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
-- ⚡ Curiosidade:
-  
-  ### Dentro da área da Tecnologia/Robótica realizei dois principais projetos na faculdade:
-  
-🛠 Máquina CNC : programada através de um arduino UNO + placa CNC,programada em C,desenvolvi a parte eletrônica/hardware e software do projeto.
+---
 
-⚙ Tecnologias do projeto: motores,placas micro-controladoras,programação em C. 
+## ⚡ Projetos Acadêmicos (Robótica)
 
-Link do projeto: [Mesa CNC](https://www.linkedin.com/posts/gabriel-barbosa-link_projeto-de-uma-mesa-coordenada-cnc-utilizando-activity-6853353349518045184-Au41?utm_source=share&utm_medium=member_desktop)
+### 🛠 Máquina CNC  
+Programação com Arduino UNO + placa CNC, desenvolvimento eletrônico e software.  
+**Tecnologias:** motores, microcontroladores, C  
+🔗 https://www.linkedin.com/posts/gabriel-barbosa-link_projeto-de-uma-mesa-coordenada-cnc-utilizando-activity-6853353349518045184-Au41
 
-🛠 Braço Robótico: um processo para separação de peças, através de suas cores. 
-
-⚙ Tecnologias do projeto: servomotores,placas micro-controladoras,sensor de cor e programação em C. 
-
-Link do projeto : [Braço Robótico](https://youtu.be/Inv-DU7WCAg?si=1cJe2RQBjllCHrvA)
-
-
-## Tecnologias e Ferramentas: 
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> 
-
-
-## Ambientes: 
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
-
-
-## Aprendendo: 
-
- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" />
+### 🛠 Braço Robótico  
+Sistema de separação de peças por cor usando sensores.  
+**Tecnologias:** servomotores, microcontroladores, sensor de cor, C  
+🔗 https://youtu.be/Inv-DU7WCAg
 
 <a href="https://ibb.co/tsXDpLQ"><img src="https://i.ibb.co/d2gD4mj/windows-95-desk-office-room-pixel-art-by-isaiaslopez05-devqx88-fullview.jpg" alt="windows-95-desk-office-room-pixel-art-by-isaiaslopez05-devqx88-fullview" border="0" width="150" height="150" align="right"></a>
 
