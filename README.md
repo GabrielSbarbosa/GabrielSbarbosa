@@ -14,7 +14,7 @@ Tenho foco em criar soluções escaláveis, performáticas e de alta qualidade.
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielSbarbosa&show_icons=true&theme=dracula"/>
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSbarbosa&layout=compact&langs_count=6&theme=blue-green"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSbarbosa&layout=compact&langs_count=5&theme=blue-green"/>
 </div>
 
 ---
