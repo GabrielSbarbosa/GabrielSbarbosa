@@ -44,10 +44,10 @@ Aplicativo mobile com cadastro de vendedores, gerenciamento de estoque, favorito
 **Tecnologias:** JavaScript, Node.js, HTML, CSS, Git  
 🔗 GitHub: https://github.com/GabrielSbarbosa/ProjetoAppMobile
 
-### **🧾 ProjectPHP – Sistema de Controle de Funcionários**  
-Sistema web com autenticação, CRUD completo e relatórios.  
-**Tecnologias:** PHP, MySQL, HTML, CSS, JavaScript  
-🔗 GitHub: https://github.com/GabrielSbarbosa/ProjectPHP
+### **🧾 ClassificacaoSpotify – Análise de Dados com Python**  
+Esse projeto visa a analisar dados com Python, a fim de identificar músicas que são agitadas ou lentas.  
+**Tecnologias:** Python, Jupyter Notebook
+🔗 GitHub: [https://github.com/GabrielSbarbosa/ProjectPHP](https://github.com/GabrielSbarbosa/ClassificacaoSpotify)
 
 ---
 
