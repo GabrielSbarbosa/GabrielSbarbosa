@@ -15,8 +15,8 @@ Tenho foco em criar soluções escaláveis, performáticas e de alta qualidade.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielSbarbosa&show_icons=true&theme=dracula"/>
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielSbarbosa&layout=compact&theme=blue-green&langs_count=8"/>
+  <img height="170em" src="https://githubstats.com.br/api/github-stats?username=GabrielSbarbosa&theme=dracula" />
+  <img height="170em" src="https://githubstats.com.br/api/languages?username=GabrielSbarbosa&theme=blue-green" />
 </div>
 
 ---
