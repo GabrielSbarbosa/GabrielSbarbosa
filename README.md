@@ -47,6 +47,7 @@ Aplicativo mobile com cadastro de vendedores, gerenciamento de estoque, favorito
 ### **🧾 ClassificacaoSpotify – Análise de Dados com Python**  
 Esse projeto visa a analisar dados com Python, a fim de identificar músicas que são agitadas ou lentas.  
 **Tecnologias:** Python, Jupyter Notebook
+
 🔗 GitHub: [https://github.com/GabrielSbarbosa/ProjectPHP](https://github.com/GabrielSbarbosa/ClassificacaoSpotify)
 
 ---
