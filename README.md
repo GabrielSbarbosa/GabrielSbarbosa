@@ -42,6 +42,7 @@ Tenho foco em criar soluções escaláveis, performáticas e de alta qualidade.
 ### **📱 ProjetoAppMobile – Loja Virtual de Pipas**  
 Aplicativo mobile com cadastro de vendedores, gerenciamento de estoque, favoritos e integração com WhatsApp.  
 **Tecnologias:** JavaScript, Node.js, HTML, CSS, Git  
+
 🔗 GitHub: https://github.com/GabrielSbarbosa/ProjetoAppMobile
 
 ### **🧾 ClassificacaoSpotify – Análise de Dados com Python**  
