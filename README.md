@@ -1,10 +1,8 @@
 <h2 style="color:#4CAF50;">Bem-vindo ao meu GitHub!</h2>
-<h2 style="color:#4CAF50;">Welcome to my GitHub!</h2>
 
 <h1 style="color:#1E90FF;">Eu sou Gabriel Barbosa, prazer! 😁</h1>
 <h2 style="color:#1E90FF;">Engenheiro de Dados</h2>
 
-Bem-vindo ao meu perfil!  
 Sou um profissional de tecnologia com **forte base em desenvolvimento de software** e **foco atual em Engenharia de Dados**, atuando na construção de pipelines, processamento de dados, análise e integração entre sistemas.
 
 Atualmente trabalho como **Analista Computacional Pleno**, com experiência prática em **Python, SQL, JavaScript, Node.js, .NET e bancos de dados**, aplicando esses conhecimentos tanto em sistemas corporativos quanto em projetos de dados.
