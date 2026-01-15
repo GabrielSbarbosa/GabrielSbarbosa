@@ -13,15 +13,6 @@ Sou formado em **Mecatrônica Industrial (FATEC)** e **Análise e Desenvolviment
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats-fast-xi.vercel.app/api?username=GabrielSbarbosa&show_icons=true&theme=dracula"/>
-  <img height="170em" src="https://github-readme-stats-fast-xi.vercel.app/api/top-langs/?username=GabrielSbarbosa&layout=compact&theme=blue-green&langs_count=8"/>
-</div>
-
----
-
 ## 💼 Experiência Profissional
 
 ### **Sweda Informática – São Paulo, SP**  
@@ -41,7 +32,7 @@ Sou formado em **Mecatrônica Industrial (FATEC)** e **Análise e Desenvolviment
 
 ## 🚀 Projetos com Foco em Dados
 
-### **📊 ClassificacaoSpotify – Análise de Dados com Python**
+### **📊 Spotify – Análise de Dados com Python**
 Projeto de análise de dados para classificação de músicas com base em características como ritmo e intensidade.  
 
 **Destaques:**
