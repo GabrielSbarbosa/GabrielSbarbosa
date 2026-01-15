@@ -1,14 +1,15 @@
 <h2 style="color:#4CAF50;">Bem-vindo ao meu GitHub!</h2>
 <h2 style="color:#4CAF50;">Welcome to my GitHub!</h2>
 
-<h1 style="color:#1E90FF;">Eu sou Gabriel Barbosa, muito prazer! 😁</h1>
-<h2 style="color:#1E90FF;">Desenvolvedor Full Stack 💻</h2>
+<h1 style="color:#1E90FF;">Eu sou Gabriel Barbosa, prazer! 😁</h1>
+<h2 style="color:#1E90FF;">Engenheiro de Dados</h2>
 
-Bem-vindo ao meu perfil! Sou Desenvolvedor Full Stack com experiência prática em desenvolvimento web, integração de sistemas e automação.  
-Atualmente trabalho como **Analista Computacional Pleno**, atuando com JavaScript, Node.js, Python, SQL e .NET no desenvolvimento e manutenção de sistemas corporativos.
+Bem-vindo ao meu perfil!  
+Sou um profissional de tecnologia com **forte base em desenvolvimento de software** e **foco atual em Engenharia de Dados**, atuando na construção de pipelines, processamento de dados, análise e integração entre sistemas.
 
-Sou formado em **Mecatrônica Industrial (FATEC)** e **Análise e Desenvolvimento de Sistemas (Estácio)**.  
-Tenho foco em criar soluções escaláveis, performáticas e de alta qualidade.
+Atualmente trabalho como **Analista Computacional Pleno**, com experiência prática em **Python, SQL, JavaScript, Node.js, .NET e bancos de dados**, aplicando esses conhecimentos tanto em sistemas corporativos quanto em projetos de dados.
+
+Sou formado em **Mecatrônica Industrial (FATEC)** e **Análise e Desenvolvimento de Sistemas (Estácio)**, com interesse em **dados, cloud, big data e soluções escaláveis orientadas a dados**.
 
 ---
 
@@ -25,31 +26,48 @@ Tenho foco em criar soluções escaláveis, performáticas e de alta qualidade.
 
 ### **Sweda Informática – São Paulo, SP**  
 **Analista Computacional Pleno | 07/2023 – Atual**
-- Desenvolvimento e manutenção de aplicações utilizando **JavaScript, Node.js, Python, SQL e .NET**.  
-- Integração entre sistemas e implementação de novas funcionalidades.  
-- Uso de Git, Jira e boas práticas de arquitetura e testes.  
-- Otimização de bancos de dados e análise de logs.
+- Desenvolvimento e manutenção de sistemas utilizando **Python, JavaScript, SQL, Node.js e .NET**.  
+- Integração entre sistemas e manipulação de dados entre diferentes fontes.  
+- Consultas, otimização e manutenção de bancos de dados relacionais.  
+- Análise de logs, dados operacionais e suporte a processos de negócio.  
+- Uso de **Git, Jira** e boas práticas de versionamento e organização de código.
 
-**Analista Computacional Júnior | 05/2022 – 07/2023**  
-- Suporte técnico e manutenção de sistemas internos.  
-- Automação de processos e diagnóstico de falhas.  
-- Participação em integrações e melhorias de desempenho.
+**Analista Computacional Júnior | 05/2022 – 07/2023**
+- Suporte técnico e análise de falhas em sistemas corporativos.  
+- Automação de processos internos.  
+- Apoio em integrações e melhorias de desempenho relacionadas a dados.
 
 ---
 
-## 🚀 Projetos Notáveis
+## 🚀 Projetos com Foco em Dados
 
-### **📱 ProjetoAppMobile – Loja Virtual de Pipas**  
-Aplicativo mobile com cadastro de vendedores, gerenciamento de estoque, favoritos e integração com WhatsApp.  
-**Tecnologias:** JavaScript, Node.js, HTML, CSS, Git  
+### **📊 ClassificacaoSpotify – Análise de Dados com Python**
+Projeto de análise de dados para classificação de músicas com base em características como ritmo e intensidade.  
+
+**Destaques:**
+- Leitura, tratamento e exploração de dados  
+- Lógica de classificação  
+- Uso de Python para análise  
+
+**Tecnologias:** Python, Jupyter Notebook  
+
+🔗 GitHub: https://github.com/GabrielSbarbosa/ClassificacaoSpotify
+
+---
+
+## 🧱 Projetos de Software (Base para Dados)
+
+### **📱 ProjetoAppMobile – Loja Virtual de Pipas**
+Aplicativo mobile desenvolvido para um pequeno empreendedor, com gerenciamento de produtos, interesses dos clientes e integração com WhatsApp.
+
+Este projeto demonstra:
+- Modelagem de dados  
+- Integração entre sistemas  
+- Organização de informações para tomada de decisão  
+
+**Tecnologias:** React Native, JavaScript, Expo  
 
 🔗 GitHub: https://github.com/GabrielSbarbosa/ProjetoAppMobile
-
-### **🧾 ClassificacaoSpotify – Análise de Dados com Python**  
-Esse projeto visa a analisar dados com Python, a fim de identificar músicas que são agitadas ou lentas.  
-**Tecnologias:** Python, Jupyter Notebook
-
-🔗 GitHub: [https://github.com/GabrielSbarbosa/ProjectPHP](https://github.com/GabrielSbarbosa/ClassificacaoSpotify)
 
 ---
 
@@ -63,65 +81,59 @@ Esse projeto visa a analisar dados com Python, a fim de identificar músicas que
 
 ---
 
-## 📝 Certificações Selecionadas
+## 📝 Certificações & Estudos
 
-- JavaScript Developer – DIO (2024)  
-- Programação de Algoritmos Escaláveis – Estácio (2024–2025)  
-- Python + Cloud/IoT/Big Data – Fundação Bradesco / Estácio (2023–2024)  
-- HTML, CSS e JavaScript – Fundação Bradesco (2023)  
-- Programação para Dispositivos Móveis – Estácio (2025)  
+- Python + Cloud / IoT / Big Data – Fundação Bradesco / Estácio  
+- Programação de Algoritmos Escaláveis – Estácio  
+- JavaScript Developer – DIO  
+- HTML, CSS e JavaScript – Fundação Bradesco  
+
+*(Estudos contínuos em Engenharia de Dados, SQL avançado, pipelines e cloud)*
 
 ---
 
-## 🧠 Habilidades Técnicas
+## 🧠 Stack Técnica – Engenharia de Dados
 
 **Linguagens:**  
-JavaScript | Python | Java | C++
+Python | SQL | JavaScript  
 
-**Frameworks:**  
-React | Next.js | Vue.js | Node.js
+**Dados & Analytics:**  
+Pandas | Jupyter Notebook | Análise de Dados  
 
-**Banco de Dados:**  
-MySQL | Databricks
+**Bancos de Dados:**  
+MySQL | Databricks  
 
-**Ferramentas & DevOps:**  
-Git | Linux | Windows | Jira
+**Engenharia & Ferramentas:**  
+Git | Linux | Integração de Sistemas  
+
+**Base em Desenvolvimento:**  
+Node.js | APIs | Front-end (HTML, CSS, JS)
 
 ---
 
 ## 🧩 Soft Skills
 
-Resolução de problemas • Trabalho em equipe • Comunicação eficaz  
-Organização • Pensamento crítico • Proatividade • Aprendizado contínuo  
+Pensamento analítico • Resolução de problemas  
+Organização • Comunicação • Aprendizado contínuo  
+Visão sistêmica • Trabalho em equipe  
 
 ---
 
 ## 📫 Contatos
 
 <div>
-  <a href="mailto:gabrieldasilva100@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Email-0053A0?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/gabriel-barbosa-link"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/GabrielSbarbosa"><img loading="lazy" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:gabrieldasilva100@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-0053A0?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-barbosa-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/GabrielSbarbosa">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </div>
 
----
-
-## ⚡ Projetos Acadêmicos (Robótica)
-
-### 🛠 Máquina CNC  
-Programação com Arduino UNO + placa CNC, desenvolvimento eletrônico e software.  
-**Tecnologias:** motores, microcontroladores, C  
-🔗 https://www.linkedin.com/posts/gabriel-barbosa-link_projeto-de-uma-mesa-coordenada-cnc-utilizando-activity-6853353349518045184-Au41
-
-### 🛠 Braço Robótico  
-Sistema de separação de peças por cor usando sensores.  
-**Tecnologias:** servomotores, microcontroladores, sensor de cor, C  
-🔗 https://youtu.be/Inv-DU7WCAg
-
-<a href="https://ibb.co/tsXDpLQ"><img src="https://i.ibb.co/d2gD4mj/windows-95-desk-office-room-pixel-art-by-isaiaslopez05-devqx88-fullview.jpg" alt="windows-95-desk-office-room-pixel-art-by-isaiaslopez05-devqx88-fullview" border="0" width="150" height="150" align="right"></a>
-
-
-
-
-
-
+<a href="https://ibb.co/tsXDpLQ">
+  <img src="https://i.ibb.co/d2gD4mj/windows-95-desk-office-room-pixel-art-by-isaiaslopez05-devqx88-fullview.jpg" 
+       alt="pixel-art" width="150" height="150" align="right">
+</a>
